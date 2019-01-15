@@ -18,7 +18,8 @@ h4{
   background-image:radial-gradient(aliceblue,silver);
 }
 .nav{
-  text-align:justify;
+  font-size: 2em;
+  /* text-align:center; */
   padding-left: 40%;
   padding-right: 40%
 }
