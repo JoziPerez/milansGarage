@@ -1,0 +1,24 @@
+*{
+  cursor: url(wrench.cur),auto;
+}
+
+
+.indexPage{
+  background-color: rgba(200, 200, 200, 0.9);
+  /* background-image: url(../img/sparkPlug.png); */
+  background-repeat:space;
+}
+.login{
+  text-align: center;
+
+}
+h4{
+  text-align: center;
+  text-shadow: orange 1px 1px;
+  background-image:radial-gradient(aliceblue,silver);
+}
+.nav{
+  text-align:justify;
+  padding-left: 40%;
+  padding-right: 40%
+}
