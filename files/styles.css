@@ -3,10 +3,14 @@
 }
 
 
-.indexPage{
-  background-color: rgba(200, 200, 200, 0.9);
-  /* background-image: url(../img/sparkPlug.png); */
-  background-repeat:space;
+.indexPage , .page1, .page2{
+
+  background-image: url(../img/engine.jpg);
+
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+
 }
 .login{
   text-align: center;
@@ -18,6 +22,7 @@ h4{
   background-image:radial-gradient(aliceblue,silver);
 }
 .nav{
+  background-color: silver;
   font-size: 2em;
   text-align:center;
   padding-left: 40%;
