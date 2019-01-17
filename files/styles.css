@@ -20,9 +20,13 @@ h4{
   text-shadow: orange 1px 1px;
   background-image:radial-gradient(aliceblue,silver);
 }
-.nav{
+.navig{
   background-color: silver;
   font-size: 2em;
-  
-
+}
+.conImg{
+  border: 5px groove coral;
+  border-radius: 10px;
+  opacity: .8;
+  margin:  10px;
 }
